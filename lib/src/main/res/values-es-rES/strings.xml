@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aar_save">Guardar</string>
+    <string name="aar_paused">Pausa</string>
+    <string name="aar_recording">Está grabando</string>
+    <string name="aar_playing">Está jugando</string>
+</resources>

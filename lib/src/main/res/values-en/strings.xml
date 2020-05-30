@@ -1,6 +1,0 @@
-<resources>
-    <string name="aar_save">Save</string>
-    <string name="aar_paused">Pause</string>
-    <string name="aar_recording">Recording</string>
-    <string name="aar_playing">Playing</string>
-</resources>
